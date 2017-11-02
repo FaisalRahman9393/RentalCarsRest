@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jersey-media-json-jackson-2.26">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jersey-media-json-jackson-2.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-mapper-asl-1.9.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
